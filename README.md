@@ -18,9 +18,7 @@ Powerlifting Data Analysis: Completed in May 2024, utilized SQLite and Python fo
 🔧 Skills:
 
 Languages: R, Python, SQL
-
 Tools: Streamlit, SQLite
-
 Others: Data Analysis, Statistical Modeling
 
 🛠️ Tools & Technologies
