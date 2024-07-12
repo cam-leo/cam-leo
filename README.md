@@ -25,13 +25,8 @@ Others: Data Analysis, Statistical Modeling
 
 Programming Languages: Python, R, SQL
 
-Data Analysis: R, Python (Pandas, NumPy), SQL
+Data Analysis: R, Python, Tableau, Power BI
 
-Web Development: Streamlit
-
-Database Management: SQLite
-
-Version Control: Git, GitHub
 
 🌱 What I’m currently working on
 
