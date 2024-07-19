@@ -3,9 +3,11 @@ Hi there! 👋
 I’m Leo, a passionate data enthusiast with a strong foundation in Mathematics and Statistics from the University of Toronto. My journey in analysis has been driven by curiosity and a desire to uncover insights from data. Here’s a bit more about me and what I do:
 
 
-🚀 About Me
 
-📘 Education: Studying Mathematics and Statistics at the University of Toronto.
+
+📘 Education: 
+
+Studying Mathematics and Statistics at the University of Toronto.
 
 💼 Projects:
 
