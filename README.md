@@ -21,7 +21,7 @@ Powerlifting Data Analysis: Completed in May 2024, utilized SQLite and Python fo
 
 Languages: R, Python, SQL
 Tools: Streamlit, SQLite, Postgres,
-Others: Data Analysis, Statistical Modeling, Time Series Analysis, Regression Analysis, Inferential Statistics, Multivariate Analysis, Linear Programming and Optimization
+Others: Data Analysis, Statistical Modeling, Time Series Analysis, Regression Analysis, Inferential Statistics, Multivariate Analysis, Linear Programming and Optimization, Data Visualization, Discrete Mathematics
 
 🛠️ Tools & Technologies
 
