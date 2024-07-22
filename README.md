@@ -27,7 +27,7 @@ Others: Data Analysis, Statistical Modeling, Time Series Analysis, Regression An
 
 Programming Languages: Python, R, SQL
 
-Data Analysis: R, Python, Tableau, Power BI
+Data Analysis: R, Python, Tableau, Power BI, Alteryx, Excel
 
 
 🌱 What I’m currently working on
