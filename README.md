@@ -7,7 +7,7 @@ I’m Leo, a passionate data enthusiast with a strong foundation in Mathematics 
 
 📘 Education: 
 
-Studying Mathematics and Statistics at the University of Toronto.
+Bachelor of Science, Mathematics and Statistics at the University of Toronto.
 
 💼 Projects:
 
