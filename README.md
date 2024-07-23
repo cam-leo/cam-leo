@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I’m Leo, a passionate data enthusiast with a strong foundation in Mathematics and Statistics from the University of Toronto. My journey in analysis has been driven by curiosity and a desire to uncover insights from data. Here’s a bit more about me and what I do:
+I’m Leo, a passionate data enthusiast with a strong foundation in Mathematics and Statistics from the University of Toronto. My journey in analysis has always been driven by curiosity and a desire to uncover insights from data. Here’s a bit more about me and what I do:
 
 
 
@@ -35,6 +35,8 @@ Data Analysis: R, Python, Tableau, Power BI, Alteryx, Excel
 Enhancing my data analysis skills by exploring new datasets and techniques.
 
 Learning more about machine learning and its applications in real-world problems.
+
+Figuring out how to stretch the limits of what a dataset can tell us.
 
 📫 How to reach me
 
