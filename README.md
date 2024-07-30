@@ -23,20 +23,9 @@ Languages: R, Python, SQL
 Tools: Streamlit, SQLite, Postgres,
 Others: Data Analysis, Statistical Modeling, Time Series Analysis, Regression Analysis, Inferential Statistics, Multivariate Analysis, Linear Programming and Optimization, Data Visualization, Discrete Mathematics
 
-🛠️ Tools & Technologies
-
-Programming Languages: Python, R, SQL
-
-Data Analysis: R, Python, Tableau, Power BI, Alteryx, Excel
 
 
-🌱 What I’m currently working on
 
-Enhancing my data analysis skills by exploring new datasets and techniques.
-
-Learning more about machine learning and its applications in real-world problems.
-
-Figuring out how to stretch the limits of what a dataset can tell us.
 
 📫 How to reach me
 
