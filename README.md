@@ -34,7 +34,4 @@ Email: camleo.lc@gmail.com
 GitHub: [Your GitHub Profile](https://github.com/cam-leo)
 
 
-📚 Latest Projects
-Life Insurance Data Analysis
-Powerlifting Data Analysis
-Life Insurance Analysis by Leo Cam
+
