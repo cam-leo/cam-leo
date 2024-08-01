@@ -11,17 +11,17 @@ Bachelor of Science, Mathematics and Statistics at the University of Toronto.
 
 💼 Projects:
 
-Life Insurance Data Analysis: Conducted in January 2023 using R.
+Life Insurance Data Analysis: Conducted in January 2023 using R and SQL.
 
-Powerlifting Data Analysis: Completed in May 2024, utilized SQLite and Python for a Streamlit web app.
+Amazon Stocks Visualization: Completed in June 2024, utilizing Power BI, Tableau and Excel
 
 
 
 🔧 Skills:
 
 Languages: R, Python, SQL
-Tools: Streamlit, SQLite, Postgres,
-Others: Data Analysis, Statistical Modeling, Time Series Analysis, Regression Analysis, Inferential Statistics, Multivariate Analysis, Linear Programming and Optimization, Data Visualization, Discrete Mathematics
+Tools: Excel, Power BI, Tableau, Alteryx
+Others: Data Analysis, Statistical Modeling, Time Series Analysis, Regression Analysis, Inferential Statistics, Multivariate Analysis, Linear Programming and Optimization, Data Visualization, Discrete Mathematics, Probability Theory
 
 
 
