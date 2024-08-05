@@ -20,7 +20,9 @@ Amazon Stocks Visualization: Completed in June 2024, utilizing Power BI, Tableau
 🔧 **Skills**:
 
 Languages: R, Python, SQL
-Tools: Excel, Power BI, Tableau, Alteryx
+
+Tools: Excel, Power BI, Tableau, Alteryx, SAS, 
+
 Others: Data Analysis, Statistical Modeling, Time Series Analysis, Regression Analysis, Inferential Statistics, Multivariate Analysis, Linear Programming and Optimization, Data Visualization, Discrete Mathematics, Probability Theory
 
 
