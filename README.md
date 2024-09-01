@@ -11,7 +11,7 @@ Bachelor of Science, Mathematics and Statistics at the University of Toronto.
 
 💼 **Projects**:
 
-Life Insurance Data Analysis: Conducted in January 2023 using R and SQL.
+Life Insurance Claims Model Predictor: Conducted in January 2023 using Python, R, Excel, R and SQL. Utilized Tableau and Power BI for summary stats dashboard.
 
 Amazon Stocks Visualization: Completed in June 2024, utilizing Power BI, Tableau and Excel
 
