@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I’m Leo, with a degree Mathematics and Statistics from the University of Toronto. My journey in analysis has always been driven by curiosity and a desire to uncover insights from data. Here’s a bit more about me and what I do:
+I’m Leo, with a Bachelor's degree in Mathematics and Statistics from the University of Toronto. My journey in analysis has always been driven by curiosity and a desire to uncover insights from data. Here’s a bit more about me and what I do:
 
 
 
