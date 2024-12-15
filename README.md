@@ -7,9 +7,13 @@ I’m Leo, a recent graduate from the University of Toronto with a Bachelor's de
 
 📘 **Education**: 
 
-Bachelor of Science, Mathematics and Statistics at the University of Toronto.
+Honors Bachelor of Science, Mathematics and Statistics at the University of Toronto.
 
 💼 **Projects**:
+
+Health Pricing Model
+
+Risk and Treasury Dashboard for Mining Operations
 
 Life Insurance Claims Model Predictor: Conducted in January 2023 using Python, R, Excel, R and SQL. Utilized Tableau and Power BI for summary stats dashboard.
 
