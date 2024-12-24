@@ -15,7 +15,9 @@ Health Pricing Model
 
 Risk and Treasury Dashboard for Mining Operations
 
-Life Insurance Claims Model Predictor: Conducted in January 2023 using Python, R, Excel, R and SQL. Utilized Tableau and Power BI for summary stats dashboard.
+Life Insurance Claims Model Predictor: Conducted in January 2023 using Python, R, Excel, R and SQL. Utilized Tableau and Power BI for summary stats dashboard
+
+Various Predictor models
 
 Amazon Stocks Visualization: Completed in June 2024, utilizing Power BI, Tableau and Excel
 
